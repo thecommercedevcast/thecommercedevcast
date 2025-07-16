@@ -1,6 +1,6 @@
-# Commerce DevCast 🎙️
+# The Commerce DevCast 🎙️
 
-Welcome to the Commerce DevCast GitHub repository!
+Welcome to The Commerce DevCast GitHub repository!
 
 Commerce DevCast is where eCommerce meets real-world development. We focus on the technology, trends, and decisions impacting modern commerce platforms. Whether you're a merchant, developer, or agency, our podcast provides helpful insights and strategies to guide you through the changing eCommerce environment.
 
